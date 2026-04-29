@@ -1,4 +1,7 @@
-# Verification Debt: Trust and Reliability of AI-Generated Code
+Archita Garg - 2210991336
+Anshika Mahajan - 2210991304
+Current Status - Submission done
+# Verification Debt: Trust and Reliability of AI-Generated Code - Research Paper
 
 Reproducible figures for the research paper *"Verification Debt: Trust and Reliability of AI-Generated Code"*, which introduces **verification debt** — the accumulated risk from insufficient verification of AI-generated code.
 
